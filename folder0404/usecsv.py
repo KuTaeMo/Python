@@ -1,5 +1,5 @@
 import csv
-import os
+import os,re
 
 
 def opencsv(filename):
